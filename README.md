@@ -12,7 +12,7 @@ Le nom de notre structure ESport s'appelle la Crackhead Corp.
 ## L'équipe
 
 | Membre | Rôle | Compte GitHub |
-| ThéoBG | DEV / Vérif code | tgrusonbellou@gmail.com |
+| ThéoBG | DEV / Vérif code | tgrusonbellou-max |
 | | | |
 
 ## Lancer le projet
