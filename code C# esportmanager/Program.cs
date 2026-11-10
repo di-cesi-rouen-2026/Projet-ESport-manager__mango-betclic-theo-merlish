@@ -12,7 +12,7 @@ if (string.IsNullOrWhiteSpace(nomDuJoueur))
     nomDuJoueur = "Joueur 1";
 }
 Console.WriteLine ($"Bienvenue dans la folle aventure d'Esport Manager {nomDuJoueur} !!");
-
+Console.WriteLine("VSY");
 
 
 
